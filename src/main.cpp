@@ -2,7 +2,7 @@
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode({600, 600}), "Puzzle 9 - Prueba");
+    sf::RenderWindow window(sf::VideoMode({600, 600}), "Puzzle 8 - Prueba");
 
     while(window.isOpen())
     {
